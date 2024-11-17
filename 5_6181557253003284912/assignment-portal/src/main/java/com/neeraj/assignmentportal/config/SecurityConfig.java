@@ -1,6 +1,4 @@
-package com.naveen.assignmentportal.config;
-
-//import com.naveen.assignmentportal.service.CustomUserDetailsService;
+package com.neeraj.assignmentportal.config;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;

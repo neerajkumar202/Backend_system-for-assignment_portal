@@ -1,4 +1,4 @@
-package com.naveen.assignmentportal.dto;
+package com.neeraj.assignmentportal.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Builder;

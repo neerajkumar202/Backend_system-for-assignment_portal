@@ -1,4 +1,4 @@
-package com.naveen.assignmentportal.dto;
+package com.neeraj.assignmentportal.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import lombok.Getter;

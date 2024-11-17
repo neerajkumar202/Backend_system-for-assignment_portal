@@ -1,6 +1,6 @@
-package com.naveen.assignmentportal.repository;
+package com.neeraj.assignmentportal.repository;
 
-import com.naveen.assignmentportal.entity.User;
+import com.neeraj.assignmentportal.entity.User;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.Optional;

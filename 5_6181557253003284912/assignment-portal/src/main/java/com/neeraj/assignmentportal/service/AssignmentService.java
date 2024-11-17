@@ -1,14 +1,14 @@
-package com.naveen.assignmentportal.service;
+package com.neeraj.assignmentportal.service;
 
 
-import com.naveen.assignmentportal.dto.LoginDTO;
-import com.naveen.assignmentportal.dto.RegisterDTO;
-import com.naveen.assignmentportal.dto.Response;
-import com.naveen.assignmentportal.entity.Admin;
-import com.naveen.assignmentportal.entity.Assignment;
-import com.naveen.assignmentportal.entity.Status;
-import com.naveen.assignmentportal.repository.AdminRepository;
-import com.naveen.assignmentportal.repository.AssignmentRepository;
+import com.neeraj.assignmentportal.dto.LoginDTO;
+import com.neeraj.assignmentportal.dto.RegisterDTO;
+import com.neeraj.assignmentportal.dto.Response;
+import com.neeraj.assignmentportal.entity.Admin;
+import com.neeraj.assignmentportal.entity.Assignment;
+import com.neeraj.assignmentportal.entity.Status;
+import com.neeraj.assignmentportal.repository.AdminRepository;
+import com.neeraj.assignmentportal.repository.AssignmentRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.data.domain.Page;

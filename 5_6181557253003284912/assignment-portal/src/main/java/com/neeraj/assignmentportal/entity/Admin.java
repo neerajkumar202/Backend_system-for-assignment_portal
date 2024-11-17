@@ -1,4 +1,4 @@
-package com.naveen.assignmentportal.entity;
+package com.neeraj.assignmentportal.entity;
 
 import lombok.Getter;
 import lombok.Setter;

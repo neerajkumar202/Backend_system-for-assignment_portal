@@ -1,10 +1,8 @@
-package com.naveen.assignmentportal.controller;
-import com.naveen.assignmentportal.dto.LoginDTO;
-import com.naveen.assignmentportal.dto.RegisterDTO;
-import com.naveen.assignmentportal.dto.Response;
-import com.naveen.assignmentportal.repository.AdminRepository;
-import com.naveen.assignmentportal.service.AssignmentService;
-import com.naveen.assignmentportal.service.UserService;
+package com.neeraj.assignmentportal.controller;
+import com.neeraj.assignmentportal.dto.LoginDTO;
+import com.neeraj.assignmentportal.dto.RegisterDTO;
+import com.neeraj.assignmentportal.dto.Response;
+import com.neeraj.assignmentportal.service.AssignmentService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

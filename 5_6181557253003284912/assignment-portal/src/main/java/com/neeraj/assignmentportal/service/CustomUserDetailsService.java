@@ -1,7 +1,7 @@
-package com.naveen.assignmentportal.service;
+package com.neeraj.assignmentportal.service;
 
-import com.naveen.assignmentportal.entity.User;
-import com.naveen.assignmentportal.repository.UserRepository;
+import com.neeraj.assignmentportal.entity.User;
+import com.neeraj.assignmentportal.repository.UserRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

@@ -1,9 +1,6 @@
-package com.naveen.assignmentportal.repository;
+package com.neeraj.assignmentportal.repository;
 
-import com.naveen.assignmentportal.entity.Admin;
-import com.naveen.assignmentportal.entity.User;
-import org.springframework.data.domain.Page;
-import org.springframework.data.domain.Pageable;
+import com.neeraj.assignmentportal.entity.Admin;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.Optional;
